@@ -28,7 +28,7 @@ Os principais desafios abordados incluem a sincronização de áudio em tempo re
 **1. Clone o repositório:**
 ```bash
 git clone https://github.com/eduardossaleme/streaming-audio-Trab2-Redes.git
-cd streaming-audio-Trab2-Redes.
+cd streaming-audio-Trab2-Redes
 ```
 **2. Instalar as dependências:**
 ```bash
