@@ -27,7 +27,7 @@ Os principais desafios abordados incluem a sincronização de áudio em tempo re
 
 **1. Clone o repositório:**
 ```bash
-git clone [<URL_DO_REPOSITORIO>](https://github.com/eduardossaleme/streaming-audio-Trab2-Redes.git)
+git clone https://github.com/eduardossaleme/streaming-audio-Trab2-Redes.git
 cd streaming-audio-Trab2-Redes.
 ```
 **2. Instalar as dependências:**
@@ -35,7 +35,7 @@ cd streaming-audio-Trab2-Redes.
 pip install pyaudio
 ```
 Notas paras usuários Linux: 
-Se houver erro, instale antes: sudo apt-get install portaudio19-dev <br>
+Se houver erro, instale antes: sudo apt-get install portaudio19-dev  ou tente sudo apt-get install python3-pyaudio <br>
 Talvez também seja necessário instalar o Tkinter: sudo apt-get install python3-tk
 
 **3. Configuração do Ambiente (Arquivos Obrigatórios):**
